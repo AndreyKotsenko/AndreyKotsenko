@@ -3,7 +3,7 @@
 <h3 align="center">A person who believes in science</h3>
 
 
-- 🌱 I’m currently learning Android dev.
+- 🌱 I’m currently learning Go dev.
 - 📫 How to reach me: kocenkoandrej14@gmail.com
 
 <br/>
